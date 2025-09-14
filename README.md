@@ -1,7 +1,9 @@
 # Hi 👋, I'm Aayushi Bhensdadia
 
 🎓 **B.Tech in Computer Engineering** at Nirma University
+
 🏅 GSSoC'25 Contributor
+
 💡 Passionate about building innovative solutions and solving complex problems  
 
 📫 How to reach me: **aayushipatel230525@gmail.com**
